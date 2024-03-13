@@ -1,0 +1,10 @@
+[
+    {
+        "model": "appname.modelname",
+        "pk": 1,
+        "fields": {
+            "name": "value for name",
+            "description": "value for description"
+        }
+    }
+]
